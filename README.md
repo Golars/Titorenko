@@ -1,6 +1,4 @@
 Titorenko
 =========
 
-My First Site
-
-Simple template
+My Cv Site page
